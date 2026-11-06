@@ -1,0 +1,6 @@
+{
+  "name": "ILMHUB.TREND",
+  "description": "Internet olamidagi eng mashhur saytlar va ilovalar bir joyda! Dunyoning eng mashhur raqamli platformalarini kashf et!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
